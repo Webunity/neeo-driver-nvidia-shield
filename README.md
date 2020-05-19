@@ -11,10 +11,10 @@ The driver receives commands from the Neeo remote, and passes them on via websoc
 
 ## Keycodes for the NVidia Shield
 Specific commands for the Android Shield TV are (with modifier "0" unless otherwise mentioned):
-  - Left          (92)
-  - Right         (94)
-  - Up            (96)
-  - Down          (90)
+  - Left          (80)
+  - Right         (79)
+  - Up            (82)
+  - Down          (81)
   - Select        (40)
   - Back          (41)
   - Home          (1,41)
